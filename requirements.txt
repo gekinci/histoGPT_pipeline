@@ -1,0 +1,14 @@
+numpy==1.25.2
+dagit==1.9.9
+dagster==1.9.9
+h5py==3.12.1
+histogpt @ git+https://github.com/marrlab/HistoGPT@98ecaecf63d39b89fd2c391bffdbfc5543322995
+matplotlib==3.10.0
+opencv-python==4.11.0.86
+openslide-bin==4.0.0.6
+openslide-python==1.4.1
+pandas
+pillow==11.1.0
+torch==2.2.1
+torchvision==0.17.1
+transformers==4.37.2
