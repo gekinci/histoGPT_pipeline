@@ -1,0 +1,11 @@
+version: "3.8"
+services:
+  dagster:
+    build: .
+    image: test
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./diagnosis_result:/save_folder
+volumes:
+  diagnosis_result:
