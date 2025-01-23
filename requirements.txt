@@ -1,6 +1,8 @@
+setuptools
 numpy==1.25.2
 dagit==1.9.9
 dagster==1.9.9
+flamingo-pytorch==0.1.2
 h5py==3.12.1
 histogpt @ git+https://github.com/marrlab/HistoGPT@98ecaecf63d39b89fd2c391bffdbfc5543322995
 matplotlib==3.10.0
